@@ -54,7 +54,6 @@ const Register = () => {
             return;
         }
 
-
         console.log(user,pwd);
         setSuccess(true);
         history.push('/Trending');
